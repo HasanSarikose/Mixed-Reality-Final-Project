@@ -42,11 +42,10 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 1.  Bu repoyu klonlayın:
     ```bash
-    git clone [https://github.com/HasanSarikose/Mixed-Reality-Final-Project.git](https://github.com/HasanSarikose/Mixed-Reality-Final-Project.git)
+    git clone [https://github.com/HasanSarikose/Mixed-Reality-Final-Project.git]
     ```
 2.  Unity Hub üzerinden projeyi açın.
 3.  `Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection` klasöründeki ana sahneyi başlatın.
 
 ---
-**Geliştirici:** [Hasan Sarıköse]
-**Okul No*: * [2021556055]
+**Geliştirici:** Hasan Sarıköse
